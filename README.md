@@ -26,7 +26,7 @@ Včasih pride prav značka &lt;kbd&gt; za tipke. Značko uporabimo takole:
 <!-- 2. nivojski razdelek -->
 Domača naloga
 
-<!-- Spodnji seznam bo pripravil seznam nalog. Na GitHubu bodo lepo vidna potrditvena polja, 
+<!-- Spodnji seznam bo pripravil seznam nalog.  Na GitHubu bodo lepo vidna potrditvena polja, 
      VSCode pa bo prikazal samo oglate oklepaje. Ko nalogo opravite, si to lahko zabeležite tako,
      da spremenite [ ] v [x]. -->
 - [ ] Izberite si še tri bližnjice, ki jih še ne uporabljate redno, in se jih naučite. 
