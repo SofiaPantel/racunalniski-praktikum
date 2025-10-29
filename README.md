@@ -33,6 +33,7 @@ Domača naloga
       Dodajte jih v prvi razdelek tega dokumenta.
 - [ ] Sinhronizirajte spremembe z repozitorijem na GitHubu: najprej naredite `commit` (smiselno sporočilo bi bilo npr. "dopolni README z vajami za Markdown"), nato pa še `push`.
 
+
 <!-- 2. nivojski razdelek -->
 Uporabne povezave
 
