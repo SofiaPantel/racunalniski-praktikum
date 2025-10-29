@@ -33,7 +33,6 @@ Domača naloga
       Dodajte jih v prvi razdelek tega dokumenta.
 - [ ] Sinhronizirajte spremembe z repozitorijem na GitHubu: najprej naredite `commit` (smiselno sporočilo bi bilo npr. "dopolni README z vajami za Markdown"), nato pa še `push`.
 
-
 <!-- 2. nivojski razdelek -->
 Uporabne povezave
 
@@ -41,5 +40,3 @@ Uporabne povezave
 2. [Računalniški sistemi, storitve in oprema za študente](https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619)
 3. [Zapiski in vaje za Računalniški praktikum](https://racunalniski-praktikum.github.io/)
 4. [Dokumentacija za Markdown na GitHubug](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-еу
